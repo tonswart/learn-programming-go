@@ -1,0 +1,10 @@
+.idea
+*.terraform
+terraform.tfstate.d
+.secrets/**/values
+.DS_Store
+
+# Ignore vim files:
+*~
+*.swp
+*.swo
